@@ -7,7 +7,9 @@ YES = "y"
 NO = "n"
 
 # File path where the story is stored
-path = Path("text_files/ten_traders.txt")
+# Enter path in file_path and name of text file
+# in filename
+path = Path("file_path/filename.txt")
 
 
 def load_story():
